@@ -13,9 +13,9 @@ export const PERSONAL_INFO = {
   telegram: "Brave40759",
   telegramUrl: "https://t.me/Brave40759",
   linkedin: "http://www.linkedin.com/in/sileshi-gerbi-2442a6251",
-  photoUrl: "/sile.png",
-  avatarUrl: "/sile.png",
-  fullPhotoUrl: "/sile.png",
+  photoUrl: "sile.png",
+  avatarUrl: "sile.png",
+  fullPhotoUrl: "sile.png",
   summary: "A results-driven professional with 16+ years bridging clinical science and commercial strategy across the pharmaceutical ecosystem. Expert in commercial management, WHO-GDP regulatory compliance, wholesale enterprise setup, and national healthcare development.",
   stats: {
     yearsExperience: "16+",
